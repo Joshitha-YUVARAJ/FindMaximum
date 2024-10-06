@@ -47,11 +47,10 @@ def max_marks(array):
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/fa4a122c-0eca-48d4-b9cc-83b824f10f35)
+![Screenshot 2024-10-06 151741](https://github.com/user-attachments/assets/6828265d-5690-4689-84a4-c6df80c89dc1)
+![Screenshot 2024-10-06 151917](https://github.com/user-attachments/assets/b1b2ae1b-5b7d-4346-83a6-6ee2fda614d8)
+![Screenshot 2024-10-06 151947](https://github.com/user-attachments/assets/b4cd93ba-82da-4950-9be7-139365f56eda)
 
-![image](https://github.com/user-attachments/assets/3fe83fb0-649a-4785-ae39-7a32a20913b2)
-
-![image](https://github.com/user-attachments/assets/6874b84d-3aa0-4db8-9904-73be2506fe53)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
